@@ -27,5 +27,5 @@ DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
 HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'
 
 # MONGO DB
-MONGO_URI = 'mongodb://localhost'
+MONGO_URI = 'mongodb://mongo'
 MONGO_DB = 'metal_archives'
